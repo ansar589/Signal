@@ -1,4 +1,4 @@
-name: Crypto Signal Check
+.name: Crypto Signal Check
 
 on:
   schedule:
